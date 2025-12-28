@@ -19,3 +19,6 @@ A high-performance web application that replicates the core functionality of the
 <img src = "./pricing.png">
 <img src = "./support.png">
 <img src = "./support2.png">
+<h2>Contributors of this project:</h2>
+<li>Yashwardhan Singh Bhadoriya (Github Profile : yashmnit)</li>
+<li>Dharak Upadhyay (Github Profile : dharak1975)</li>
